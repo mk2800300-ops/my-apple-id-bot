@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # --- CONFIGURATION ---
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8630905846:AAHroNMMSn3sPcaEZyEu2RVwdoOklfxSUmA"
 
 # Add all 20 games here: [Button Text, Game ID, Ad Link, Apple ID, Password]
 GAMES = {
